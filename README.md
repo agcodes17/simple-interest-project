@@ -13,3 +13,5 @@ This repository contains the required files for the final Git/GitHub hands-on as
 ```bash
 chmod +x simple-interest.sh
 ./simple-interest.sh 1000 5 2
+#simple Interest project  Edited in bug-fix-typo branch
+Edited in bug-fix-typo branch.
